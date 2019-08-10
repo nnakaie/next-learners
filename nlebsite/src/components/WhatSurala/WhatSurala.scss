@@ -1,0 +1,13 @@
+#whatSurala {
+    background-color: #00A6E4;
+    color: white;
+}
+
+.feature {
+    display: flex;
+    justify-content: center;
+    &__item {
+        height: 180px;
+        margin: 0 2rem;
+    }
+}

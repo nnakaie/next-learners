@@ -1,0 +1,13 @@
+.category-title {
+    text-align: center;
+    margin-top: 0;
+    padding-top: 1.5rem;
+}
+
+.category {
+    padding: 0rem 2.5rem 2rem;
+    &__inner {
+        display: flex;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,15 @@
+.value_top {
+    display: flex;
+    margin-bottom: 3rem;
+    &__img {
+        width: 280px;
+    }
+}
+
+.value_base {
+    display: flex;
+    justify-content: space-between;
+    &__img {
+        width: 23%;
+    }
+}
